@@ -1,0 +1,6 @@
+{
+  "name": "Dhaka Restaurant Website",
+  "description": "A beautiful 5-page restaurant website featuring order takeaway, table booking, and a secure admin menu management dashboard using React, Tailwind CSS, Express, and SQlite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
